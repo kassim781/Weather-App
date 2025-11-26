@@ -144,7 +144,7 @@ const styles = StyleSheet.create({
 
   headerTitle: {
     fontSize: 28,
-    fontWeight: "500",
+    fontWeight: "700",
     color: "black",
   },
 
